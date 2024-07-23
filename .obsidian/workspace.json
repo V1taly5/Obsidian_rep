@@ -1,0 +1,192 @@
+{
+  "main": {
+    "id": "f2d009a08f508929",
+    "type": "split",
+    "children": [
+      {
+        "id": "5120894be7e678ec",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "688f09563ea4c516",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "095f563f32ae0698",
+    "type": "split",
+    "children": [
+      {
+        "id": "76b6d583859fe366",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0a51463543cc56d5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "993558a37ff03675",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5403c542bc1c891f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "c038a9f4b4d18622",
+    "type": "split",
+    "children": [
+      {
+        "id": "afb9afb78243bcca",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c7fbf394c7b07791",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "47a0de4eb85de852",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "23539cd2e740ac58",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "fe2f0369af2a48cb",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "0a51463543cc56d5",
+  "lastOpenFiles": [
+    "Untitled 3.canvas",
+    "2024-07-23.md",
+    "Untitled 2.canvas",
+    "Алгоритм Манакера.md",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "Lesson 6. Finite machines.md",
+    "Сервис для переноса файлов из локальных папок в (условно) удаленное хранилище.md",
+    "learm/Data struct/Stack.md",
+    "learm/Data struct/stack.drawio2.png",
+    "Pasted image 20240313134553.png",
+    "Pasted image 20240313133537.png",
+    "Lesson 9. QA.md",
+    "Lifo_stack.svg.png",
+    "Регрессионный анализ.md",
+    "Встречи с Трекером.md",
+    "learm/kafka/Дизайн консумера.md",
+    "learm/Untitled.md",
+    "learm/Data struct",
+    "project/tg-bot.md",
+    "isuct/FP/Lesson 4. Checkpoint questions.md",
+    "learm/kafka/Дизайн продюсера.md",
+    "learm/kafka/Семантики доставки.md",
+    "isuct/english/WEB design.md",
+    "learm/kafka/Консумер группы.md",
+    "learm/kafka/Ребалансировка консумер-групп.md",
+    "learm/kafka/img/Pasted image 20240310151945.png",
+    "learm/kafka/Kafka.md",
+    "learm/kafka/img/Pasted image 20240310153011.png",
+    "learm/kafka/img/Pasted image 20240310153000.png",
+    "learm/kafka/img/Pasted image 20240310152950.png",
+    "learm/kafka/img/Pasted image 20240310152458.png",
+    "learm/kafka/img/Pasted image 20240310152216.png",
+    "learm/kafka/Идемпотентные продюсеры.md",
+    "learm/kafka/Надежность доставки.md",
+    "learm/kafka/Zookeeper.md",
+    "learm/kafka/Продюсер.md",
+    "learm/kafka/Репликация данных.md",
+    "learm/kafka/Балансировка и партицирование.md",
+    "isuct/english",
+    "learm/kafka/Брокер.md",
+    "learm/kafka/img",
+    "learm/kafka",
+    "isuct/FP",
+    "isuct",
+    "learm",
+    "project/sso",
+    "project"
+  ]
+}
